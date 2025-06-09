@@ -33,7 +33,7 @@ Em breve, você verá aqui meus projetos em:
 ## 📫 Como me encontrar
 
 - Email: [joaomarcosget@gmail.com](mailto:joaomarcosget@gmail.com)
-- LinkedIn: [linkedin.com/in/joaomarcosandrade](www.linkedin.com/in/joaocarandrade) *(adicione seu link personalizado se tiver)*
+- LinkedIn: [linkedin.com/in/joaomarcosandrade](www.linkedin.com/in/joaocarandrade)
 - Localização: São Paulo - SP, Brasil
 
 ---
