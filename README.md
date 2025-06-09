@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou João Marcos Carneiro de Andrade
+# 👋 Olá! Eu sou João Marcos
 
 Sou Engenheiro de Telecomunicações formado pelo INATEL, com 7 anos de experiência aplicando **Análise de Dados**, **Business Intelligence**, **Automação de Processos** e **Machine Learning** no segmento regulatório do setor de **Telecomunicações, Saneamento e Financeiro**.
 
